@@ -1,0 +1,14 @@
+d:\Programming\Projects\Palindrome Finder\bin\Debug\net8.0\Palindrome Finder.exe
+d:\Programming\Projects\Palindrome Finder\bin\Debug\net8.0\Palindrome Finder.deps.json
+d:\Programming\Projects\Palindrome Finder\bin\Debug\net8.0\Palindrome Finder.runtimeconfig.json
+d:\Programming\Projects\Palindrome Finder\bin\Debug\net8.0\Palindrome Finder.dll
+d:\Programming\Projects\Palindrome Finder\bin\Debug\net8.0\Palindrome Finder.pdb
+d:\Programming\Projects\Palindrome Finder\obj\Debug\net8.0\Palindrome Finder.GeneratedMSBuildEditorConfig.editorconfig
+d:\Programming\Projects\Palindrome Finder\obj\Debug\net8.0\Palindrome Finder.AssemblyInfoInputs.cache
+d:\Programming\Projects\Palindrome Finder\obj\Debug\net8.0\Palindrome Finder.AssemblyInfo.cs
+d:\Programming\Projects\Palindrome Finder\obj\Debug\net8.0\Palindrome Finder.csproj.CoreCompileInputs.cache
+d:\Programming\Projects\Palindrome Finder\obj\Debug\net8.0\Palindrome Finder.dll
+d:\Programming\Projects\Palindrome Finder\obj\Debug\net8.0\refint\Palindrome Finder.dll
+d:\Programming\Projects\Palindrome Finder\obj\Debug\net8.0\Palindrome Finder.pdb
+d:\Programming\Projects\Palindrome Finder\obj\Debug\net8.0\Palindrome Finder.genruntimeconfig.cache
+d:\Programming\Projects\Palindrome Finder\obj\Debug\net8.0\ref\Palindrome Finder.dll
